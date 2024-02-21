@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XafValidationsFlechaAmarilla.Module", "XafValidationsFlechaAmarilla.Module\XafValidationsFlechaAmarilla.Module.csproj", "{ECCDBF2B-733C-4ECF-A0E9-4F7E674CB41F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XafValidationsFlechaAmarilla.Win", "XafValidationsFlechaAmarilla.Win\XafValidationsFlechaAmarilla.Win.csproj", "{80EFCF65-3367-4710-BC73-F0FDDC4F4982}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XafValidationsFlechaAmarilla.Blazor.Server", "XafValidationsFlechaAmarilla.Blazor.Server\XafValidationsFlechaAmarilla.Blazor.Server.csproj", "{824DDC90-988B-4F93-B464-536F7F9EC405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECCDBF2B-733C-4ECF-A0E9-4F7E674CB41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCDBF2B-733C-4ECF-A0E9-4F7E674CB41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCDBF2B-733C-4ECF-A0E9-4F7E674CB41F}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{ECCDBF2B-733C-4ECF-A0E9-4F7E674CB41F}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{ECCDBF2B-733C-4ECF-A0E9-4F7E674CB41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCDBF2B-733C-4ECF-A0E9-4F7E674CB41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80EFCF65-3367-4710-BC73-F0FDDC4F4982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EFCF65-3367-4710-BC73-F0FDDC4F4982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EFCF65-3367-4710-BC73-F0FDDC4F4982}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{80EFCF65-3367-4710-BC73-F0FDDC4F4982}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{80EFCF65-3367-4710-BC73-F0FDDC4F4982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EFCF65-3367-4710-BC73-F0FDDC4F4982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824DDC90-988B-4F93-B464-536F7F9EC405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824DDC90-988B-4F93-B464-536F7F9EC405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824DDC90-988B-4F93-B464-536F7F9EC405}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{824DDC90-988B-4F93-B464-536F7F9EC405}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{824DDC90-988B-4F93-B464-536F7F9EC405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824DDC90-988B-4F93-B464-536F7F9EC405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
